@@ -39,5 +39,5 @@ This project explores the use of **Reinforcement Learning with Human Feedback (R
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rlhf-text-summarization.git
-   cd rlhf-text-summarization
+   git clone https://github.com/JaishreeramCoder/Masters-Thesis-Project1.git
+   cd Masters-Thesis-Project1
